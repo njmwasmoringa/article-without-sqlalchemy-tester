@@ -19,7 +19,7 @@ workingDir=$(pwd)
 repoDir="/repos"
 installPath="$workingDir$repoDir"
 
-test_file="$workingDir/project_test.py"
+test_file="$workingDir/code_challenge_test.py"
 test_init_file="$workingDir/__init__.py"
 pytest_ini="$workingDir/pytest.ini"
 
