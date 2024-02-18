@@ -10,6 +10,7 @@ Clone the repo and cd inside it
 
 ### how to test
 run this commands inside the repo directory
-'''
+
+```
 bash tester.sh [repository link]
-'''
+```
